@@ -1,1 +1,5 @@
-# nlp-roadmap
+# NLP Roadmap [WIP]
+
+
+![roadmap](./roadmap.png)
+
